@@ -12,7 +12,7 @@ The projects and documentation can also be used as learning reference, and I hop
 - Each project is documented in detailed and there are many readme-s in every sub folder stating its purpose.
 - Feel free to contact me about any other concerning doubts.
 <br>
--  **repo Structure** 
+- repo Structure: 
   - LICENSE    // licensing of the repo
   - README.md  // you are here
   - Pojects   // All the designs and testbenches are here (open you will find respective README.md)
