@@ -14,7 +14,8 @@ concise list of projects.
 
 |---|---|---|
 
-| 1. Multiplexer | | |
+| 1. Multiplexer | combi, param | tsrc, doc |
+| 2. De-Multiplexer| combi, param | tsrc, doc |
 
 
 | >---< |>---<| >---< |
@@ -22,16 +23,18 @@ concise list of projects.
 ## tags abbreviations
 - Project tags
     - empty - new / coding in process.
-    - parameterized. (note: i will be using $clog2(); make sure you use Verilog-2005 or SV)
+    - param - parameterised design. (not the design might not be optimised for your niche)
     - combi - combinational.
     - sequ - sequential.
     - pipe - pipelined.
+    - more_in - contains more projects inside.
 <br>
 
 - Status tags
     - empty - new project / code in process.
-    - doc -  pending documentations.
-    - tsrc - pending testbench source code files.
-    - dsrc - pending design source code files.
+    - dsrc - design source code files.
+    - tsrc - testbench source code files.
+    - doc -  documentations.
+    - 
 
 
