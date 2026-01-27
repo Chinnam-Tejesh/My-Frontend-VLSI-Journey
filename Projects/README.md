@@ -21,7 +21,8 @@ concise list of projects.
     - empty - new / coding in process.
     - parameterized.
     - combi - combinational.
-    - 
+    - sequ - sequential.
+    - pipe - pipelined.
 <br>
 
 - Status tags
