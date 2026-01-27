@@ -1,7 +1,7 @@
 # My-Frontend-VLSI-Journey
 
 ## repo Description
-Hello and welcome, in this repo I document the projects that I have done during my journey of learning VLSI frontend, covering both Design and Verification domains. <br> 
+Hello and welcome, in this repo I document the projects that I have done during my journey of learning VLSI frontend, covering both **Design** and **Verification** domains. <br> 
 <br>
 
 This repo is intended to serve as my record of my works done in Verilog® and SystemVerilog® HDLs. 
