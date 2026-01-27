@@ -18,8 +18,7 @@ The projects and documentations can serve as learning references, and I hope the
 <br>
 
 - Each project is documented in detail and there are many README files in every sub-folder stating the folder's purpose.
-- Feel free to contact me about any other questions you may have. 
-<br>
+- Feel free to contact me about any other questions you may have.
 
 ## repo Licensing
 This repository is under the **MIT License**. You are free to use, modify, and distribute the code with proper credit to me (appropriate attribution is required).
