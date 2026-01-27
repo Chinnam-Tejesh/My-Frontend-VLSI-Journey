@@ -22,7 +22,7 @@ The projects and documentations can serve as learning references, and I hope the
 <br>
 
 ## repo Licensing
-This repository is under the **MIT License**. You are free to use, modify, and distribute the code with proper credit to me (appropriate attribution).
+This repository is under the **MIT License**. You are free to use, modify, and distribute the code with proper credit to me (appropriate attribution is required).
 <br>
 See `LICENSE` for more details.
 
