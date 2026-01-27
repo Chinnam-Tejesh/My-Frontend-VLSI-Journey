@@ -13,10 +13,10 @@ The projects and documentation can also be used as learning reference, and I hop
 - Feel free to contact me about any other concerning doubts.
 <br>
 - repo Structure: 
-  - LICENSE    // licensing of the repo
-  - README.md  // you are here
+  - LICENSE    // licensing of the repo <br>
+  - README.md  // you are here<br>
   - Pojects   // All the designs and testbenches are here (open you will find respective README.md)
-
+<br>
 ## repo Licensing
 If you want to use the code in this repo, you are free to do, this repo is under MIT License.
 ___
