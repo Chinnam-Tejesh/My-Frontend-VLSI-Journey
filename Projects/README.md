@@ -1,5 +1,5 @@
 # Projects
-This folder contains all the projects I done in Verilog® HDL.
+This folder contains all the projects I done in my frontend journey (Verilog® and SystemVerilog® HDLs).
 <br>
 
 Each Project has its own 
@@ -11,15 +11,18 @@ Each Project has its own
 concise list of projects.
 
 |**Name of the Project** | **Project tags** | **pending status tags** |
-|---|---|---|
-| testing column 1 |testing column 2| testing column 3 |
 
+|---|---|---|
+
+| 1. Multiplexer | | |
+
+
+| >---< |>---<| >---< |
 
 ## tags abbreviations
-
 - Project tags
     - empty - new / coding in process.
-    - parameterized.
+    - parameterized. (note: i will be using $clog2(); make sure you use Verilog-2005 or SV)
     - combi - combinational.
     - sequ - sequential.
     - pipe - pipelined.
