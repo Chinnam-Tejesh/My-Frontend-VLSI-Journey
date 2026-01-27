@@ -1,25 +1,31 @@
 # My-Verilog-Journey
 
 ## repo Description
-Hello and welcome, in this repo I document the projects that I have done during my journey of learning VLSI frontend, covering both Design and Verification domains. <br> <br>
+Hello and welcome, in this repo I document the projects that I have done during my journey of learning VLSI frontend, covering both Design and Verification domains. <br> 
+<br>
 
-This repo is intended to serve as my record of works done in Verilog® HDL. <br>
+This repo is intended to serve as my record of my works done in Verilog® HDL. 
+<br>
 
-The projects and documentation can also be used as learning reference, and I hope they are useful for you. <br>
+The projects and documentations can serve as learning references, and I hope they are useful for you. 
+<br>
+
 ## repo Structure
-- Each project is documented in detail and there are many readme-s in every sub-folder stating its purpose.
-- Feel free to contact me about any other questions you may have. <br>
+- the repo is Structured as:
+  - LICENSE    - licensing of the repo
+  - README.md  - you are here
+  - Projects   - All the designs and testbenches are here (open you will find respective README.md)
+<br>
 
-- repo Structure
-  - LICENSE    // licensing of the repo
-  - README.md  // you are here
-  - Projects   // All the designs and testbenches are here (open you will find respective README.md)
-
+- Each project is documented in detail and there are many README files in every sub-folder stating the folder's purpose.
+- Feel free to contact me about any other questions you may have. 
 <br>
 
 ## repo Licensing
-If you want to use the code in this repo, you are free to do, this repo is under MIT License.
-___
+This repository is under the **MIT License**. You are free to use, modify, and distribute the code with proper credit to me (appropriate attribution).
+<br>
+See `LICENSE` for more details.
+
 ## Contacts
 - Email: tejesh.chinnam@gmail.com
-- Linkdin: [linkdin.com/in/tejesh-sri-abhay-chinnam](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
+- LinkdIn (prefered): [linkdin.com/in/tejesh-sri-abhay-chinnam](https://www.linkedin.com/in/tejesh-sri-abhay-chinnam)
