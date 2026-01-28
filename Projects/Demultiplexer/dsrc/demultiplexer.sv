@@ -8,13 +8,13 @@
 *
 */
 module demultiplexer #(
-    parameter int out_bitwidth = 1,
-    parameter int out_outputs = 16,
-    parameter int log2ofout = ($clog2(out_outputs > 0) ? $clog2(out_outputs) : 1)
+    parameter int OUT_BITWIDTH = 1,
+    parameter int OUT_OUTPUTS  = 16,
+    parameter int LOG2_OF_OUT  = ($clog2(OUT_OUTPUTS > 0) ? $clog2(OUT_OUTPUTS) : 1)
 ) (
-    input logic [out_bitwidth - 1 : 0] in,
-    input logic [log2ofout - 1 : 0] sel,
-    output logic [out_bitwidth - 1 : 0] outs[out_outputs - 1 : 0]
+    input  logic [OUT_BITWIDTH - 1 : 0] in,
+    input  logic [ LOG2_OF_OUT - 1 : 0] sel,
+    output logic [OUT_BITWIDTH - 1 : 0] outs[OUT_OUTPUTS]
 );
 
   always_comb begin
