@@ -13,12 +13,8 @@ concise list of projects.
 |**Name of the Project** | **Project tags** | **pending status tags** |
 
 |---|---|---|
-
-| 1. Multiplexer | combi, param | tsrc, doc |
-
-| 2. De-Multiplexer| combi, param | tsrc, doc |
-
-| >---< |>---<| >---< |
+| 1 Multiplexer | combi, param | tsrc, doc |
+| 2 De-Multiplexer| combi, param | tsrc, doc |
 
 ## tags abbreviations
 - Project tags
