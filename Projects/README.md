@@ -15,8 +15,8 @@ concise list of projects.
 |---|---|---|
 
 | 1. Multiplexer | combi, param | tsrc, doc |
-| 2. De-Multiplexer| combi, param | tsrc, doc |
 
+| 2. De-Multiplexer| combi, param | tsrc, doc |
 
 | >---< |>---<| >---< |
 
