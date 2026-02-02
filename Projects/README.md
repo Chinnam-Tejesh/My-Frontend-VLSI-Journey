@@ -12,8 +12,8 @@ concise list of my projects <br>
 
 | **Name of the Project** | **Project tags** |
 | --- | --- |
-| 1 Multiplexer | combi, <br> param |
-| 2 De-Multiplexer| combi, <br> param |
+| 1 Multiplexer | - combi, <br> - param |
+| 2 De-Multiplexer| - combi, <br> - param |
 
 ## tags abbreviations
 - Project tags
