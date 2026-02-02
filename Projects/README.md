@@ -8,9 +8,9 @@ Each Project has its own
 - docs (project description, block diagram and waveforms)
 
 ## Projects list
-concise list of projects.
+concise list of projects <br>
 
-|**Name of the Project** | **Project tags** | **pending status tags** |
+| **Name of the Project** | **Project tags** | **pending status tags** |
 
 | --- | --- | --- |
 | 1 Multiplexer | combi, param | tsrc, doc |
