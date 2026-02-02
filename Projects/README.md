@@ -10,10 +10,10 @@ Each Project has its own
 ## Projects list 
 concise list of my projects <br>
 
-| **Name of the Project** | **Project tags** | **pending status tags** |
-| --- | --- | --- |
-| 1 Multiplexer | combi, param | tsrc, doc |
-| 2 De-Multiplexer| combi, param | tsrc, doc |
+| **Name of the Project** | **Project tags** |
+| --- | --- |
+| 1 Multiplexer | combi, <br> param |
+| 2 De-Multiplexer| combi, <br> param |
 
 ## tags abbreviations
 - Project tags
