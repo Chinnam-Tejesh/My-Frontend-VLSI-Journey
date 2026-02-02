@@ -7,11 +7,10 @@ Each Project has its own
 - tsrc (test source codes are here) 
 - docs (project description, block diagram and waveforms)
 
-## Projects list
-concise list of projects <br>
+## Projects list 
+concise list of my projects <br>
 
 | **Name of the Project** | **Project tags** | **pending status tags** |
-
 | --- | --- | --- |
 | 1 Multiplexer | combi, param | tsrc, doc |
 | 2 De-Multiplexer| combi, param | tsrc, doc |
