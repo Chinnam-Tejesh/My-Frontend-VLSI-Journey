@@ -8,21 +8,21 @@
 *
 */
 module demultiplexer #(
-    parameter int OUT_BITWIDTH = 1,
-    parameter int OUT_OUTPUTS  = 16,
-    parameter int LOG2_OF_OUT  = ($clog2(OUT_OUTPUTS > 0) ? $clog2(OUT_OUTPUTS) : 1)
+    parameter int BITWIDTH_OUT = 1,
+    parameter int OUTPUTS_OUT  = 16,
+    parameter int LOG2_OF_OUT  = (OUTPUTS_OUT > 1) ? $clog2(OUTPUTS_OUT) : 2
 ) (
-    input  logic [OUT_BITWIDTH - 1 : 0] in,
+    input  logic [BITWIDTH_OUT - 1 : 0] in,
     input  logic [ LOG2_OF_OUT - 1 : 0] sel,
-    output logic [OUT_BITWIDTH - 1 : 0] outs[OUT_OUTPUTS]
+    output logic [BITWIDTH_OUT - 1 : 0] outs[OUTPUTS_OUT]
 );
 
   always_comb begin
 
     outs = '{default: '0};  // aleternative to 'b0, but for unpacked identifiers.
 
-    if (sel < out_outputs) outs[sel] = in;
-    else out = '{default: '0};  // not needed, just being safe.
+    if (sel < OUTPUTS_OUT) outs[sel] = in;
+    else outs = '{default: '0};  // not needed, just being safe.
 
   end
 
